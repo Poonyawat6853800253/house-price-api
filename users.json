@@ -1,0 +1,10 @@
+{
+  "admin": {
+    "username": "admin",
+    "hashed_password": "$2b$12$zS/AL4Q441IHxgiwE8hU5eRJuBv9mLV8GLA/SA9p1kVK16MC2dgwG"
+  },
+  "poonyawat.m@kkumail.com": {
+    "username": "poonyawat.m@kkumail.com",
+    "hashed_password": "$2b$12$UNr8NgRM9fevZZO3m4MnS.cWVr1P6ZGBReEX0hXbfU.go.BWlJkr2"
+  }
+}
