@@ -1,0 +1,26 @@
+{
+  "features": [
+    "OverallQual",
+    "TotalBsmtSF",
+    "LotArea",
+    "GarageCars",
+    "Fireplaces",
+    "BedroomAbvGr",
+    "GrLivArea",
+    "FullBath",
+    "Neighborhood"
+  ],
+  "num": [
+    "OverallQual",
+    "TotalBsmtSF",
+    "LotArea",
+    "GarageCars",
+    "Fireplaces",
+    "BedroomAbvGr",
+    "GrLivArea",
+    "FullBath"
+  ],
+  "cat": [
+    "Neighborhood"
+  ]
+}
